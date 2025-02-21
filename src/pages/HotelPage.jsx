@@ -1,9 +1,30 @@
+import { Table } from "../components/Table";
+const data = [
+	{
+    "id": "1",
+		"name": "name 1",
+		"mobile": 46,
+		"address": "address 1",
+	},
+	{
+    "id": "2",
+		"name": "name 2",
+		"mobile": 66,
+		"address": "address 2",
+	},
+	{
+    "id": "3",
+		"name": "name 3",
+		"mobile": 6,
+		"address": "address 3",
+	}
+]
 const HotelPage = () => {
   return (
     <main id="main">
-      <section class="breadcrumbs">
-        <div class="container">
-          <div class="d-flex justify-content-between align-items-center">
+      <section className="breadcrumbs">
+        <div className="container">
+          <div className="d-flex justify-content-between align-items-center">
             <h2>Hotels</h2>
             <ol>
               <li>
@@ -15,28 +36,9 @@ const HotelPage = () => {
         </div>
       </section>
 
-      <section class="inner-page">
-        <div class="container">
-          <table class="table table-hover">
-            <tr class="table-primary">
-              <th>Sr. No</th>
-              <th>Hotel Name</th>
-              <th>Mobile No</th>
-              <th>Address</th>
-              <th>Operations</th>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>
-                <a href="">
-                  <input type="submit" value="Select" class="btn btn-primary" />
-                </a>
-              </td>
-            </tr>
-          </table>
+      <section className="inner-page">
+        <div className="container">
+          <Table data={data} page={'page'} />
         </div>
       </section>
     </main>

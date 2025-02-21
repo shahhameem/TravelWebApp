@@ -2,7 +2,7 @@ const Hero = ({ title = "Hi", subtitle = "Hello" }) => {
   return (
     <>
       <section id="hero">
-        <div class="hero-container" data-aos="fade-up">
+        <div className="hero-container" data-aos="fade-up">
           <h1>Welcome to Kashmir</h1>
           <h2>
             "Beauty of <span className="style2">Kashmir</span> can not be compared
