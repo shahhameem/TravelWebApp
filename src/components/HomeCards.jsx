@@ -20,7 +20,7 @@ export const HomeCards = () => {
                 <BiHotel />
               </div>
               <h4 className="title">
-                <a href="/hotel">Hotel Booking</a>
+                <a href="/hotels">Hotel Booking</a>
               </h4>
               <p className="description">
                 Hand Picked best hotels at the
@@ -34,7 +34,7 @@ export const HomeCards = () => {
                 <BiWater />
               </div>
               <h4 className="title">
-                <a href="/shikara">Shikara Booking</a>
+                <a href="/shikaras">Shikara Booking</a>
               </h4>
               <p className="description">
                 Enjoy the senic beauty of Dal Lake Srinagar on shikara.

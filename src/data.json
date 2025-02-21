@@ -1,0 +1,188 @@
+{
+    "hotels": [
+        {
+            "id": "1",
+            "name": "Salomi",
+            "mobile": "43-321-1123",
+            "address": "Apt 1261"
+        },
+        {
+            "id": "2",
+            "name": "Gerry",
+            "mobile": "77-797-5243",
+            "address": "Suite 14"
+        },
+        {
+            "id": "3",
+            "name": "Barbabra",
+            "mobile": "39-020-3031",
+            "address": "Room 1105"
+        },
+        {
+            "id": "4",
+            "name": "Nichol",
+            "mobile": "56-891-8987",
+            "address": "Apt 1291"
+        },
+        {
+            "id": "5",
+            "name": "Winnie",
+            "mobile": "63-320-6846",
+            "address": "Room 1739"
+        },
+        {
+            "id": "6",
+            "name": "Gerrilee",
+            "mobile": "74-377-6773",
+            "address": "Apt 1746"
+        },
+        {
+            "id": "7",
+            "name": "Leland",
+            "mobile": "74-797-9462",
+            "address": "13th Floor"
+        },
+        {
+            "id": "8",
+            "name": "Judi",
+            "mobile": "59-167-2839",
+            "address": "PO Box 67896"
+        },
+        {
+            "id": "9",
+            "name": "Carena",
+            "mobile": "70-833-8533",
+            "address": "15th Floor"
+        },
+        {
+            "id": "10",
+            "name": "Tani",
+            "mobile": "75-036-0493",
+            "address": "Room 1513"
+        },
+        {
+            "id": "11",
+            "name": "De",
+            "mobile": "54-370-9894",
+            "address": "Suite 55"
+        },
+        {
+            "id": "12",
+            "name": "Winnie",
+            "mobile": "43-857-7692",
+            "address": "Suite 66"
+        },
+        {
+            "id": "13",
+            "name": "Erika",
+            "mobile": "06-833-3383",
+            "address": "Room 1352"
+        },
+        {
+            "id": "14",
+            "name": "Deonne",
+            "mobile": "53-176-8602",
+            "address": "Apt 14"
+        },
+        {
+            "id": "15",
+            "name": "Cahra",
+            "mobile": "97-456-9222",
+            "address": "18th Floor"
+        },
+        {
+            "id": "16",
+            "name": "Kelci",
+            "mobile": "03-994-4685",
+            "address": "Room 1073"
+        },
+        {
+            "id": "17",
+            "name": "Leigh",
+            "mobile": "26-754-4213",
+            "address": "PO Box 62290"
+        },
+        {
+            "id": "18",
+            "name": "Pooh",
+            "mobile": "40-142-0183",
+            "address": "Room 1981"
+        },
+        {
+            "id": "19",
+            "name": "Bernie",
+            "mobile": "12-798-7194",
+            "address": "9th Floor"
+        },
+        {
+            "id": "20",
+            "name": "Ginger",
+            "mobile": "49-385-2928",
+            "address": "PO Box 53097"
+        },
+        {
+            "id": "21",
+            "name": "Delilah",
+            "mobile": "62-206-2650",
+            "address": "Suite 92"
+        },
+        {
+            "id": "22",
+            "name": "Fergus",
+            "mobile": "02-610-3712",
+            "address": "PO Box 45727"
+        },
+        {
+            "id": "23",
+            "name": "Maryann",
+            "mobile": "63-272-9485",
+            "address": "Apt 1646"
+        },
+        {
+            "id": "24",
+            "name": "Charmane",
+            "mobile": "97-812-8936",
+            "address": "10th Floor"
+        },
+        {
+            "id": "25",
+            "name": "May",
+            "mobile": "51-898-4003",
+            "address": "Apt 1414"
+        }
+    ],
+    "foods":[
+        {
+            "id": "1",
+            "food": "Chicken",
+            "diet": "Non-Veg",
+            "cost": "$10"
+        },
+        {
+            "id": "2",
+            "food": "Fish",
+            "diet": "Non-Veg",
+            "cost": "$15"
+        },
+        {
+            "id": "3",
+            "food": "Beef",
+            "diet": "Non-Veg",
+            "cost": "$18"
+        },
+        {
+            "id": "4",
+            "food": "Mutton",
+            "diet": "Non-Veg",
+            "cost": "$20"
+        }
+    ],
+    "shikaras":[
+        {
+            "id": "1",
+            "shikara": "Boat Heaven",
+            "location": "Demon Ghat",
+            "cost": "$0.5"
+        } 
+    ]
+}
